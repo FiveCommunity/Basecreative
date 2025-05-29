@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://imgur.com/a/3UjqEDY" alt="Five Community Logo" width="280"/>
+  <img src="https://imgur.com/gallery/bkne-3UjqEDY" alt="Five Community Logo" width="280"/>
 </p>
 
 <h1 align="center">🎨 Five Community - Base Creative Oficial</h1>
