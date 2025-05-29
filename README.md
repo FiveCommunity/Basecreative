@@ -100,24 +100,20 @@ Não é permitido remover os créditos dos autores.
 ---
 
 
+---
+
+## 📸 Pré-visualizações
+
+<p align="center">
+  <img src="https://i.imgur.com/XpOMZ8A.png" alt="Preview 1" style="max-width: 100%;"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/o5XLOMv.png" alt="Preview 2" style="max-width: 100%;"/>
+</p>
+
+---
 
 <p align="center">
   🔗 <strong>Five Community</strong> — Liberdade criativa para quem constrói no FiveM.
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/5i7LL5p.png" alt="Preview 1" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/hmZD7JD.png" alt="Preview 2" width="400"/>
-</p>
-
-
-
-
-<p align="center">
-  🔗 <strong>Five Community</strong> — Liberdade criativa para quem constrói no FiveM.
-</p>
-
-
