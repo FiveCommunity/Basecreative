@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://r2.fivemanage.com/wpsWGUx1KTPLmXgc0cCnU/1.png" alt="Five Community Logo" width="280"/>
+  <img src="https://imgur.com/a/3UjqEDY" alt="Five Community Logo" width="280"/>
 </p>
 
 <h1 align="center">🎨 Five Community - Base Creative Oficial</h1>
@@ -23,7 +23,7 @@ Esta base foi desenvolvida originalmente por:
 Modificada e atualizada por:
 
 - Volphz  
-- BkVini (Dalai)
+- BkVini
 
 As modificações visam otimizar, adaptar e manter a base atualizada para uso em servidores modernos, respeitando sempre a estrutura e os créditos da equipe original.
 
@@ -34,9 +34,8 @@ As modificações visam otimizar, adaptar e manter a base atualizada para uso em
 - Estilo: Creative
 - Framework: Customizado (inspirado em vRP, mas com modificações visuais e estruturais)
 - Banco de dados: MariaDB
-- Suporte a NUI (HTML, CSS, JS)
-- Otimizado para performance e fluidez
-- Compatível com scripts externos
+
+
 
 ---
 
