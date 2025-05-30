@@ -98,12 +98,6 @@ Não é permitido remover os créditos dos autores.
 
 ## 📸 Pré-visualizações
 
-<p align="center">
-  <img src="https://i.imgur.com/5i7LL5p.png" alt="Preview 1" style="max-width: 100%;"/>
-</p>
-
-
-
 ---
 
 <p align="center">
