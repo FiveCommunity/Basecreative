@@ -5,7 +5,6 @@
 <h1 align="center">🎨 Five Community - Base Creative Oficial</h1>
 
 <p align="center">
-  Base criada com estrutura Creative moderna e otimizada, desenvolvida originalmente pela <a href="https://github.com/HensaTeam"><strong>HensaTeam</strong></a><br/>
   Ideal para servidores RP que buscam leveza, design responsivo e performance.<br/>
   <a href="https://discord.gg/fivecommunity"><strong>🌐 Entre no nosso Discord</strong></a>
 </p>
@@ -13,11 +12,6 @@
 ---
 
 ## 👨‍💻 Desenvolvedores
-
-### Autoria Original
-Esta base foi desenvolvida originalmente por:
-
-- [HensaTeam](https://github.com/HensaTeam)
 
 ### Atualizações e Manutenção
 Modificada e atualizada por:
